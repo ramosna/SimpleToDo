@@ -38,7 +38,7 @@ I didnt really run into many challenges. The video walkthroughs were very helpfu
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Nathan Ramos]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
